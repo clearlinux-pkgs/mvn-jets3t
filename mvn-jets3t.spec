@@ -4,7 +4,7 @@
 #
 Name     : mvn-jets3t
 Version  : 0.9.0
-Release  : 2
+Release  : 3
 URL      : http://bitbucket.org/jmurty/jets3t/downloads/jets3t-0.9.0.zip
 Source0  : http://bitbucket.org/jmurty/jets3t/downloads/jets3t-0.9.0.zip
 Source1  : https://repo.maven.apache.org/maven2/net/java/dev/jets3t/jets3t/0.7.1/jets3t-0.7.1.jar
